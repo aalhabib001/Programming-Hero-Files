@@ -1,0 +1,22 @@
+.navber-right {
+    align-items: right;
+}
+
+.input-box {
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+}
+
+#foods{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px;
+}
+
+#food-info-details {
+    /* display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 5px;
+    margin: 0 auto; */
+}

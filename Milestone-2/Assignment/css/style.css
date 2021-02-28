@@ -1,0 +1,12 @@
+.header-container {
+    background-color: #FFFBF0;
+}
+
+.green-btn {
+    background-color: #93AD2D;
+    border-radius: .5em;
+}
+
+h1,h3 {
+    font-family: 'Bebas Neue', cursive;
+}
